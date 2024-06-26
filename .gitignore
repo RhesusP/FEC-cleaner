@@ -1,0 +1,13 @@
+# object files
+.obj/
+
+# executables
+*.out
+FEC_cleaner
+
+# Test files
+*.txt
+
+# IDE files
+.idea/
+.vscode/
